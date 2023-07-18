@@ -1,0 +1,43 @@
+.center {
+    text-align:left;
+    font-family: House party;
+    font-size: 185%;
+    text-indent: 10%;
+    
+
+}
+
+
+.Button {
+    text-decoration-color: blue;
+    text-align: left;
+
+}
+
+.topnav {
+    background-color: rgb(49, 221, 218);
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(145, 46, 250);
+    color: rgb(255, 255, 255);
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #4c89f1;
+    color: white;
+  }
+  
